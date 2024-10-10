@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... C++, C# and html
 - 💞️ I’m looking to collaborate on ... no
 - 📫 How to reach me ...  github?
+- 🌐 My native language is ... chinese
 
 <!---
 Haman0w0/Haman0w0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
